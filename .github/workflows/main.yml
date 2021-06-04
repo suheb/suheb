@@ -1,9 +1,10 @@
 on:
   schedule:
-    - cron: '*/5 * * * *' # every 5 mins to test
+    - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
-      - master
+      - main
+  on: workflow_dispatch
 jobs:
   publish:
     runs-on: ubuntu-latest
