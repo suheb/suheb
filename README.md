@@ -1,12 +1,12 @@
 Joined Github **8** years ago.
 
-Since then I pushed **283** commits, opened **11** issues, submitted **82** pull requests, received **79** stars across **19** personal projects and contributed to **1** public repositories.
+Since then I pushed **283** commits, opened **11** issues, submitted **85** pull requests, received **79** stars across **19** personal projects and contributed to **1** public repositories.
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B190.1%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.4%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.2%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B189.2%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B13.3%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.3%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.9%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B11.6%25)
 ![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B10.6%25)
